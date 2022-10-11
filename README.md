@@ -1,6 +1,6 @@
 # Tugas 2 VSGA
 
-<b><i>Mengeksekusi Source Code</i></b>>.
+<b><i>Mengeksekusi Source Code</i></b>.
 
 <h3><i>Output </i>:</h3>
 
